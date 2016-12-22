@@ -1,0 +1,26 @@
+Source,/home/fandres/Universidad/kicad/Pinguino_SMD-2550/Pinguino_SMD-2550.sch
+Kicad Rev,Eeschema 4.0.2+dfsg1-2~bpo8+1-stable
+Generated Date,jue 07 jul 2016 20:36:55 COT
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U***1,PIC18F2550,pic18f2550,PIC18F2550
+C3,C_Small,device,C_Small
+C1,C_Small,device,C_Small
+C2,C_Small,device,C_Small
+R1,R_Small,device,R_Small
+D1,Run LED,device,Led_Small
+R2,R_Small,device,R_Small
+SW1,SW Reset,device,SW_PUSH_SMALL
+C4,C_Small,device,C_Small
+P1,USB_OTG,conn,USB_OTG
+R3,R_Small,device,R_Small
+D2,Power LED,device,Led_Small
+C5,10uF a 100uF,device,CP1_Small
+Y1,Crystal_Small,device,Crystal_Small
+J1,SIL14,conn,SIL14
+J2,SIL14,conn,SIL14
