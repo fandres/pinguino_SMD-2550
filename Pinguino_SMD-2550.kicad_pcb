@@ -3,7 +3,7 @@
   (general
     (links 51)
     (no_connects 0)
-    (area 30.404999 20.752999 55.955001 46.303001)
+    (area 26.106 16.1873 57.158361 46.606001)
     (thickness 1.6)
     (drawings 69)
     (tracks 278)
@@ -14,12 +14,14 @@
 
   (page USLetter portrait)
   (title_block
-    (title "uPinguino 2550 SMD")
+    (title Pinguino_SMD-2550)
     (date 2016-07-09)
     (rev 1B)
     (company fAnDrEs)
-    (comment 1 http://cc-electrognu.blogspot.com.co/)
-    (comment 2 http://rootdevel.clockingit.com/)
+    (comment 1 Rootdevel)
+    (comment 2 Hackesapce)
+    (comment 3 http://rootdevel.clockingit.com/)
+    (comment 4 http://cc-electrognu.blogspot.com.co/)
   )
 
   (layers

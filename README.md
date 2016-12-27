@@ -4,6 +4,11 @@
 
 PCB in surface mount of the Pinguino board based on the microcontroller PIC18F2550 
 
+
+![3DF_Pinguino_SMD-2550](/images/3D_View-F.png)
+![3DB_Pinguino_SMD-2550](/images/3D_View-B.png)
+![PCB_Pinguino_SMD-2550](/images/PCB_Kicad.png)
+
 ## BOM 
 Reference | Value | Library | Library Ref
 ----- | ---------- | -------- | --------
