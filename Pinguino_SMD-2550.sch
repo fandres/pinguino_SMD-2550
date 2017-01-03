@@ -52,15 +52,15 @@ LIBS:xilinx
 LIBS:Pinguino_SMD-2550-cache
 EELAYER 25 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Pinguino_SMD-2550"
 Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Rev "1C"
+Comp "Rootdevel"
+Comment1 "Hakerspace"
+Comment2 "fAnDReS"
 Comment3 ""
 Comment4 ""
 $EndDescr

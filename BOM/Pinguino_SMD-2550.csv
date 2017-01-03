@@ -1,0 +1,36 @@
+Title,Pinguino_SMD-2550
+Revision,1C
+Date,
+Generated,mar 03 ene 2017 12:31:23 COT
+Company,Rootdevel
+Comment 1,Hakerspace
+Comment 2,fAnDReS
+Comment 3,
+Comment 4,
+Total Parts,17
+Total Unique Parts,15
+
+
+
+Ref,Qty,Value,Footprint,
+C3 ,1,220nF,Capacitors_SMD:C_1206
+C1 C2 ,2,22pF,Capacitors_SMD:C_1206
+C4 ,1,100nF,Capacitors_SMD:C_1206
+C5 ,1,10uF a 100uF,Capacitors_SMD:c_elec_6.3x5.3
+D1 ,1,Run LED,LEDs:LED_0805
+D2 ,1,Power LED,LEDs:LED_0805
+P1 ,1,USB_OTG,Connect:USB_Mini-B
+P2 ,1,CONN_01X08,Socket_Strips:Socket_Strip_Straight_1x08
+P4 ,1,CONN_01X10,Socket_Strips:Socket_Strip_Straight_1x10
+P3 ,1,CONN_01X02,Socket_Strips:Socket_Strip_Straight_1x02
+R1 R3 ,2,470,Resistors_SMD:R_1206
+R2 ,1,10k,Resistors_SMD:R_1206
+SW1 ,1,SW Reset,Buttons_Switches_SMD:SW_SPST_EVQPE1
+U***1 ,1,PIC18F2550,SMD_Packages:SOJ-28-W
+Y1 ,1,22Mhz,Crystal SMD:Crystal_SMD_5032_2Pads
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated mar 03 ene 2017 12:31:23 COT
