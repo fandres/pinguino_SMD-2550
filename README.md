@@ -1,4 +1,4 @@
-# In testing Mode
+# In testing Mode; Board in process of manufacture
 
 # Pinguino SMD 2550
 
@@ -28,5 +28,5 @@ R2 | 1| 10k| Resistors_SMD:R_1206 | 1206
 SW1 | 1| SW Reset| Buttons_Switches_SMD:SW_SPST_EVQPE1 | SMD Sw 1181
 U***1 | 1| PIC18F2550| SMD_Packages:SOJ-28-W | SOP28
 Y1 | 1| 22Mhz| Crystal SMD:Crystal_SMD_5032_2Pads | 5032 2pads
-# In testing Mode
+# In testing Mode ; Board in process of manufacture
 <a href="https://oshpark.com/shared_projects/FfviFNVs"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
