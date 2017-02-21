@@ -28,6 +28,10 @@ Y1 | 1| 22Mhz| Crystal SMD:Crystal_SMD_5032_2Pads | 5032 2pads
 ============
 <a href="https://oshpark.com/shared_projects/N5pZkoHF"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
+# Pinguino IDE
+============
+http://pinguino.cc/download.php
+
 # Images
 ============
 ![3DF_Pinguino_SMD-2550](/images/3D_View-F.png)
