@@ -25,8 +25,6 @@ SW1 | 1| SW Reset| Buttons_Switches_SMD:SW_SPST_EVQPE1 | SMD Sw 1181
 U***1 | 1| PIC18F2550| SMD_Packages:SOJ-28-W | SOP28
 Y1 | 1| 22Mhz| Crystal SMD:Crystal_SMD_5032_2Pads | 5032 2pads
 
-
-# In testing Mode ; Board in process of manufacture
 ============
 <a href="https://oshpark.com/shared_projects/N5pZkoHF"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
@@ -37,6 +35,6 @@ Y1 | 1| 22Mhz| Crystal SMD:Crystal_SMD_5032_2Pads | 5032 2pads
 ![PCB_Pinguino_SMD-2550](/images/PCB_Kicad.png)
 ![Cape_Pinguino_SMD-2550](/images/case-Pinguino_SMD-2550.png)
 
-Attributions
+# Attributions
 ============
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Pinguino_SMD-2550</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/fandres/pinguino_SMD-2550" property="cc:attributionName" rel="cc:attributionURL">Fabian Salamanca (fandres)</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.pinguino.cc/" rel="dct:source">http://www.pinguino.cc/</a>.
