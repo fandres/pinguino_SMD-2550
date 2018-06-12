@@ -1,3 +1,11 @@
+This repository is possibly outdated
+Este Repositorio se probablemente se encuentra desactualizado
+
+Repository migrated to https://gitlab.com/fandres323/pinguino_SMD-2550
+Repositorio migrado a https://gitlab.com/fandres323/pinguino_SMD-2550
+
+
+
 # Pinguino SMD 2550
 
 PCB in surface mount of the Pinguino board based on the microcontroller PIC18F2550 
